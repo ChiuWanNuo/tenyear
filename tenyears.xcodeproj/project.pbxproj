@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		57336FAA237D365800A1F74F /* tenyearViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57336FA9237D365800A1F74F /* tenyearViewController.swift */; };
+		577E680A237CFEF100FF9509 /* SharpImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 577E6809237CFEF100FF9509 /* SharpImageView.swift */; };
 		578FC643237CEA540088C5BA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 578FC642237CEA540088C5BA /* AppDelegate.swift */; };
 		578FC645237CEA540088C5BA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 578FC644237CEA540088C5BA /* SceneDelegate.swift */; };
 		578FC647237CEA540088C5BA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 578FC646237CEA540088C5BA /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		57336FA9237D365800A1F74F /* tenyearViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tenyearViewController.swift; sourceTree = "<group>"; };
+		577E6809237CFEF100FF9509 /* SharpImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharpImageView.swift; sourceTree = "<group>"; };
 		578FC63F237CEA540088C5BA /* tenyears.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tenyears.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		578FC642237CEA540088C5BA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		578FC644237CEA540088C5BA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +64,8 @@
 				578FC644237CEA540088C5BA /* SceneDelegate.swift */,
 				578FC646237CEA540088C5BA /* ViewController.swift */,
 				578FC648237CEA540088C5BA /* Main.storyboard */,
+				57336FA9237D365800A1F74F /* tenyearViewController.swift */,
+				577E6809237CFEF100FF9509 /* SharpImageView.swift */,
 				578FC64B237CEA580088C5BA /* Assets.xcassets */,
 				578FC64D237CEA580088C5BA /* LaunchScreen.storyboard */,
 				578FC650237CEA580088C5BA /* Info.plist */,
@@ -140,7 +146,9 @@
 			files = (
 				578FC647237CEA540088C5BA /* ViewController.swift in Sources */,
 				578FC643237CEA540088C5BA /* AppDelegate.swift in Sources */,
+				57336FAA237D365800A1F74F /* tenyearViewController.swift in Sources */,
 				578FC645237CEA540088C5BA /* SceneDelegate.swift in Sources */,
+				577E680A237CFEF100FF9509 /* SharpImageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
